@@ -1,28 +1,28 @@
 ---
-title: My very first post
+title: Masala Dosa Appreciation Post 😋
 date: 2021-03-10
-description: Nesciunt nulla quisquam magnam libero consequatur debitis est, dolorum quam excepturi soluta
+description: Masala Dosa Appreciation Post
 tags:
-  - hello
-  - css
-  - nice
+  - Food
 ---
 
-hello
 
-## wow nice h2 there
+## Dosa: The Origins
 
+>**When Life gives you lemons🍋, have a masala dosa😊**
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est, minima voluptates maxime quaerat qui, cumque temporibus libero nesciunt explicabo quasi eos, fugit voluptatem impedit expedita! Nesciunt nulla quisquam magnam libero consequatur debitis est, dolorum quam excepturi soluta ipsa aspernatur optio eveniet corporis sunt eaque beatae assumenda a ullam aliquid ad.
+Years and years ago there once lived an evil king, _Raja Raviverma_ who ruled kingdom of _Kholakpur_ with an iron fist (or perhaps a particularly pointy butter knife, he wasnt exactly known for his strength). Under his reign, Kholakpur was in utter chaos. He put forward many absurd rules like Laughter levy (Tax on laughter. the tax rate depended on the volume and quality of the laughter.), Mismatched sock mandate (exactly as it sounds), ban on uplifting music etc. But amoung them the cruelest of punishment was to bring the king food every week from every household, it was known as the weekly belly tax and it was as cruel as it sounds.
 
-Reprehenderit officia labore debitis quae neque fugiat iste sed, maiores nisi eligendi consequatur nesciunt possimus rem earum quidem inventore architecto praesentium, cum maxime, quaerat ipsam? Ea molestiae consequatur mollitia tempore expedita alias dicta quam tenetur vitae dolor magnam velit quod quisquam explicabo illo, ab eaque molestias reiciendis repellat fugiat culpa optio a earum nisi. 
+_Chutneypore_ a tiny village nestle amidst the swaying coconut palms of Kholakpur. Life in Chutneypore was pure and serene as the divined dish it was named after, "Chutney". There lived wisp of a girl named _Saanvi_. Her skin was the colour of the beach and her eyes resembled chai made from the montains of Assam a rich, warm brown flecked with the promise of adventure. She was the great great descendant of _Chutnekya_, The inventer of Chutney. His mind was sharp as his knige and his spirit as fiery as his spices. He was the hero of that village his chutney single handledy saved Chutneypore from famine. Though Chutney was great, it had nothing to go with it. It was yin with no yang. Many people ventured to find a perfect partner for chutney, a culinary paradise. But those who left never returned (They are not dead they didn't comeback probably because of the crippling famine and many migrated to gulf countries for jobs). Fear settked over Chutneypre like a thick fog. After decades, the search for culinary paradise was eventually abandond. "The Chutney Curse !!" They called it.
 
-### Vero corporis ipsa facere tenetur explicabo 
+Saanvi was different. Unlike the other children who scampered up coconut trees like playful monkeys, she couldn't quite grasp the art of scaling their slick trunks. Equally she couldn't repair thatched roofs, she couldn't quite grasp it. Her attempts often ended in a tangle of leaves and a frustated sigh. She could make Chutney, but everyone can make Chutney. The people at the village pitied her. Poor Saanvi," they'd murmur, shaking their heads. "Such a sweet girl, but not cut out for village life. While they saw her flaws, Saanvi saw a whirlwind of possibilities. She was stubborn but that made her unique. She heart was made of fire which reflected in her eyes. She is the type of person that never gives up. Never!
 
-totam expedita delectus reprehenderit est eum. Eius, tenetur praesentium tempore dicta culpa labore sit hic similique at nesciunt temporibus perspiciatis aliquid dolorem esse voluptatem quis, cupiditate, aspernatur illo ipsam. 
+She understood what made Chutney speacial. It was simple yet elagent. Unlike others she knew what to look for somthing simple yet elagent. She set out to find this cultinary paradise.  She traveled to bustling marketplaces and serene villages, her backpack overflowing with curious ingredients. tried many recipies but elusive dish remained frustratingly out of reach. Exhausted but not defeated, Saanvi continued her quest. The relentless pursuit of the perfect chutney partner consumed Saanvi. The nights where long, the days were even longer. Her kitchen was a warzone of fiery spices and overflowing pots. Until finally A Breakthrough!
 
-#### Deleniti provident nobis 
+Then, one sweltering afternoon, as sweat beaded on her brow and exhaustion threatened to pull her under, it hit her – a  evelation as clear and dazzling as a bolt of lightning  splitting the monsoon sky. It wasn't a single, magical ingredient she was searching for. It wasn't some far-flung spice or forgotten technique. The answer, she realized with a gasp, had been under her nose the entire time.
 
-maxime, qui molestias ex recusandae, magni consectetur iure nostrum sequi suscipit harum corrupti autem consequuntur animi veritatis? Eos laudantium quod beatae repudiandae accusamus fuga, adipisci tenetur odio nihil commodi optio ipsam voluptates quam esse reiciendis! 
+She took a deep breath, her eyes sparkeld like the stars of night sky. She reached for the bowls overflowing with rice and dal. Wht her newfound purpose, she grabbed the mortar and plestle and the rhythmic clinking and clacking echoed thorugh her kitchen. The rhythmic pounding transformed the soaked grains inot a smooth batter. This wasn't some exotic ingrdient from paradise but a reimagining of somthing familiar. Her eyes ignited with a spark riveling the inferno of her heart. She heated her pan and poured the batter as a thin sheet. The batter sizzled with a life of its on and a crispy, golden dosa was formed. A yeasty aroma filled the air. It was a symphony of textures the crisp exterior of the batter giving way to a soft, almost fluffy interior that perfectly complemented the smooth chutney. Saanvi realised thar she created somthing truly speacial.
 
-Eligendi inventore nesciunt veritatis mollitia cum! Veniam placeat saepe iure ab eius, ipsa quisquam voluptas quod ad libero ipsum vel officiis ullam eum.
+During the next weekly belly tax she presented her creation in the hungry court. As the first bite touched his royal evil lips, a hush fell over the room. Then, instead of murmurs of delight, there was... silence. An unsettling, contemplative silence. The king, a man known for his bottomless appetite, stared at the plate, then back at Saanvi with a raised eyebrow. Finally, he cleared his throat and declared, "This... this is unlike anything I've ever tasted before. It's... interesting." The king paused. "From today onwards you are the royal chef, Saanvi you're hired !!!" 
+
+The Court erupted in applause, a Saanvi stood there with a wide grin spread across her face. She thought her head would explode. Royal Chef? Now that was a title she clould truly sink her teeth into. Chutneypore, once known for its humble yet delicious chutney, was now on the culinary map, and Saanvi, the once-clumsy girl with fire in her eyes, became a legend just like her great great grandfather. She served as the Royal Chef for years to come. She experimented with news flavour combinations and invented Ghee Dosa, Masala Dosa and many many Dosas. The evil king was addicted to dosa. One fateful morning, the evil king didn't rise for the breakfast. He was declared to be died of "Dosa Overdose". And finally the kingdom of Kohlakpur was free from the hands of the evil King Raja Raviverma and they lived happily ever after.
